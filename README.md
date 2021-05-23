@@ -6,7 +6,7 @@ E-Commerce Back End
 This application allows the user to view, add, update, and delete categories, products, and tags
 
 Video walkthrough of installation and how to use application:  
-Please enlarge video as well as increase resolution when viewing video  
+Please enlarge video as well as increase resolution to 1080p when viewing video  
 Part 1:  
 https://drive.google.com/file/d/1BS7zEovimnxA3YO5FLQ2vkpW-CIHBx-7/view  
 Part 2:  
