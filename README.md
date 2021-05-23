@@ -1,9 +1,14 @@
 
-# Project Name:
-E-Commerce Back End
+# Project Name:  
+E-Commerce Back End  
+Object-Relational Mapping (ORM)  
 
 ## Description
-This application allows the user to view, add, update, and delete categories, products, and tags
+
+Internet retail, also known as **e-commerce**, is the largest sector of the electronics industry, generating an estimated $29 trillion in 2019. E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to their prevalence, understanding the fundamental architecture of these platforms is beneficial to a full-stack web developer.  
+  
+
+This repo is the back end of an e-commerce website which was created by configuring a working Express.js API that uses Sequelize to interact with a MySQL database. This application allows the user to view, add, update, and delete categories, products, and tags.  
 
 Screenshots:  
 
@@ -14,6 +19,7 @@ Screenshots:
 
 Video walkthrough of installation and how to use application:  
 Please enlarge video as well as increase resolution to 1080p when viewing video  
+  
 Part 1:  
 https://drive.google.com/file/d/1BS7zEovimnxA3YO5FLQ2vkpW-CIHBx-7/view  
 Part 2:  
